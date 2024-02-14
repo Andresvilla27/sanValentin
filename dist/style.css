@@ -7,7 +7,7 @@
     border-bottom-right-radius: 6px;
     margin-left: auto;
     margin-right: auto;
-    top: 100px;
+    top: 180px;
     background-color: #f9c5c8;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
   }
@@ -263,10 +263,11 @@
     width: auto;
     height: 100px;
     position: absolute;
-    top: 10%;
-    left: 30%;
+    top: 5%;
+    left: 40%;
     display: none;
     color: #ff3333;
     font-family: cursive;
     text-align: center;
   }
+
